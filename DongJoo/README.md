@@ -3,5 +3,6 @@
 
 히든레이어와 다중레이어로 이전에 연습한 분류 회귀 모델의 정확도를 높여보는 실습을 해보았습니다 - 0322
 
-next: https://www.youtube.com/watch?v=MMEoEJIXd7E&list=PLl1irxoYh2wzOOU9hvJqMYc215wAlxrpp
-    + SWTube 드라이브 자료들 참고하여 좀더 심층적으로 공부하겠습니다
+이미지분류기 절반 공부 .. - 0329
+
++ SWTube 드라이브 자료들 참고하여 좀더 심층적으로 공부하겠습니다
